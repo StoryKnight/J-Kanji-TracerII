@@ -1,3 +1,5 @@
+A kanji tracer written in processing with Java.
+
 Resources:
 
 http://genki.japantimes.co.jp/self/genki-kanji-list-linked-to-wwkanji
@@ -27,7 +29,3 @@ FEATURES TO IMPLEMENT:
 - resizeable / dynamic window
 
 - text-to-screen (perhaps GIF / video on right side, static text of kanji on the left?)
-
-- 
-
-
