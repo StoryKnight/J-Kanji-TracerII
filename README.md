@@ -1,6 +1,6 @@
 # J-Kanji-TracerII
 
-A kanji tracer written in processing with Java.
+A kanji tracer written in processing.
 
 Resources:
 
